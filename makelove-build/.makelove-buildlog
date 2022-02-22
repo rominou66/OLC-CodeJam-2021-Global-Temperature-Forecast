@@ -1,0 +1,32 @@
+[
+    {
+        "version": "1",
+        "build_time": "Fri, 03 Sep 2021 16:15:19 +0800",
+        "targets": [
+            "win64",
+            "appimage",
+            "lovejs"
+        ],
+        "completed": true
+    },
+    {
+        "version": "1",
+        "build_time": "Fri, 03 Sep 2021 16:16:21 +0800",
+        "targets": [
+            "win64",
+            "appimage",
+            "lovejs"
+        ],
+        "completed": true
+    },
+    {
+        "version": "1.0",
+        "build_time": "Fri, 03 Sep 2021 17:13:35 +0800",
+        "targets": [
+            "win64",
+            "appimage",
+            "lovejs"
+        ],
+        "completed": true
+    }
+]
