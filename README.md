@@ -2,6 +2,9 @@
 
 Hello, everyone! First of all, this is my first participation in a code jam. This program display recorded and predicted global temperature. You start in the year 1880 and will travel to 2077. 
 
+### Itch page
+https://rominou66.itch.io/olc-codejam-2021-global-temperature-forecast
+
 * Framework: Love2D https://love2d.org/
 * Sprite created with LibreSprite https://libresprite.github.io/#!/
 * Tilemap made with Tiled. https://www.mapeditor.org/
